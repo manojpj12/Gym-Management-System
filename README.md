@@ -1,0 +1,3 @@
+###    Gym management system
+# The project is programming intended to assist the exercise center with monitoring the everyday exercises which happen in the gym. The primary motivation behind this venture is to computerize an exercise center or a wellness community and all record can be put in gym facility management software. It aides the Gym public to keep up with the track of different things like members of the gym, Trainers, gym management software systems, Gym Management System using PHP, MySQL etc. Update, Add, Delete and so on this frames work gives to add data from the record mentioned in Gym Management Software with Payments Systems.
+
